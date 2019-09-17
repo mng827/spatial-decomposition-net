@@ -1,0 +1,11 @@
+image_filenames,label_filenames,phase_numbers,slice_numbers
+patient001/patient001_frame01.nii.gz,patient001/patient001_frame01_gt.nii.gz,[1],[]
+patient001/patient001_frame12.nii.gz,patient001/patient001_frame12_gt.nii.gz,[12],[]
+patient021/patient021_frame13.nii.gz,patient021/patient021_frame13_gt.nii.gz,[13],[]
+patient021/patient021_frame01.nii.gz,patient021/patient021_frame01_gt.nii.gz,[1],[]
+patient041/patient041_frame11.nii.gz,patient041/patient041_frame11_gt.nii.gz,[11],[]
+patient041/patient041_frame01.nii.gz,patient041/patient041_frame01_gt.nii.gz,[1],[]
+patient061/patient061_frame01.nii.gz,patient061/patient061_frame01_gt.nii.gz,[1],[]
+patient061/patient061_frame10.nii.gz,patient061/patient061_frame10_gt.nii.gz,[10],[]
+patient081/patient081_frame07.nii.gz,patient081/patient081_frame07_gt.nii.gz,[7],[]
+patient081/patient081_frame01.nii.gz,patient081/patient081_frame01_gt.nii.gz,[1],[]
